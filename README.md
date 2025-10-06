@@ -22,5 +22,5 @@ This repository contains key projects completed during my **Data Science Interns
 
 ---
 
-## 🏁 Summary
+## Summary
 Each task covers an end-to-end workflow — from data cleaning to model insights — highlighting hands-on expertise in solving real-world data science problems.
