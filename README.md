@@ -1,10 +1,10 @@
-# 🧠 Data Science Internship
+# Data Science Internship
 
 This repository contains key projects completed during my **Data Science Internship**, demonstrating practical skills in data analysis, visualization, and machine learning.
 
 ---
 
-## 📁 Tasks Overview
+## Tasks Overview
 - **Task 1:** Exploratory Data Analysis (Titanic-like Dataset)  
 - **Task 2:** Sentiment Analysis (NLP, text classification)  
 - **Task 3:** Housing Price Prediction (Regression)  
@@ -15,7 +15,7 @@ This repository contains key projects completed during my **Data Science Interns
 
 ---
 
-## 🧩 Skills & Tools
+## Skills & Tools
 **Techniques:** EDA, Feature Engineering, Model Evaluation, Forecasting  
 **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Prophet, LIME  
 **Tools:** Jupyter Notebook, VS Code, GitHub  
