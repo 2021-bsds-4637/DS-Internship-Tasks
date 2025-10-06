@@ -1,0 +1,1 @@
+This project predicts whether a bank client will subscribe to a term deposit using machine learning models. It includes data preprocessing, model evaluation, and explainability with LIME for feature interpretation.
