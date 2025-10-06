@@ -53,5 +53,3 @@ Evaluation metrics used:
 - ROC-AUC Curve  
 
 Threshold tuning was applied to analyze business costs for false positives (FP) and false negatives (FN).
-
-**Example Results:**
