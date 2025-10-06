@@ -62,7 +62,3 @@ Three forecasting approaches were used:
 - Well-structured, modular, and commented notebook.  
 - Proper use of functions, scaling, and error handling.  
 - Visual outputs labeled clearly for interpretation.
-
----
-
-## 📂 GitHub Repository Structure
